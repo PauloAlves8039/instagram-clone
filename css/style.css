@@ -81,6 +81,7 @@ body {
     align-items: center;
     border-radius: 50%;
     overflow: hidden;
+    height: 75px;
 }
 
 .profile-photo img {
@@ -92,6 +93,7 @@ body {
     color: var(--color-white);
     padding: 8px;
     border-radius: 4px;
+    margin-top: 3px;
 }
 
 .instagram-logout {
